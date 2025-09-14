@@ -1,0 +1,15 @@
+{
+  "ui.header.title": "Panel de control Acme",
+  "ui.header.cta": "Comenzar prueba gratuita",
+  "ui.nav.products": "Productos",
+  "ui.nav.pricing": "Precios",
+  "ui.nav.docs": "Documentación",
+  "ui.form.email": "Dirección de correo electrónico",
+  "ui.form.password": "Contraseña",
+  "ui.form.submit": "Continuar",
+  "ui.toast.success": "Ajustes guardados",
+  "ui.toast.error": "Algo salió mal",
+  "docs.tagline": "Traduzca la interfaz de usuario y la documentación de su producto de forma continua y segura.",
+  "docs.hero": "Un flujo de trabajo rápido y preciso para la localización continua.",
+  "docs.section.glossary": "Utilice un glosario compartido para mantener una terminología coherente."
+}

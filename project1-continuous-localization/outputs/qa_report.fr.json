@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "pass": false,
+    "issues": 2
+  },
+  "checks": [
+    {
+      "key": "ui.header.cta",
+      "type": "glossary",
+      "severity": "blocker",
+      "message": "The translation for 'Start free trial' uses 'Essai gratuit' which is not the preferred term.  The glossary suggests 'essai gratuit'.",
+      "suggested_fix": "Change \"Essai gratuit\" to \"Essai gratuit\""
+    },
+    {
+      "key": "ui.toast.error",
+      "type": "style",
+      "severity": "warn",
+      "message": "The translated string for 'Something went wrong' includes an exclamation mark, which violates the style guide.",
+      "suggested_fix": "Remove the exclamation mark from \"Une erreur s'est produite.\""
+    }
+  ]
+}

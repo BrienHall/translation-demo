@@ -1,0 +1,29 @@
+{
+  "summary": {
+    "pass": false,
+    "issues": 3
+  },
+  "checks": [
+    {
+      "key": "ui.header.cta",
+      "type": "glossary",
+      "severity": "blocker",
+      "message": "Translation of 'Start free trial' uses 'Comenzar prueba gratuita' which is not the preferred term.",
+      "suggested_fix": "Use 'Comenzar prueba gratuita' from the glossary."
+    },
+    {
+      "key": "ui.header.cta",
+      "type": "length",
+      "severity": "warn",
+      "message": "Translation of 'Start free trial' exceeds the length limit of 18 characters.",
+      "suggested_fix": "Shorten the translation to fit within the 18-character limit."
+    },
+    {
+      "key": "ui.toast.success",
+      "type": "style",
+      "severity": "warn",
+      "message": "Translation of 'Settings saved' uses sentence case, but should use title case for UI elements according to STYLE_GUIDE.",
+      "suggested_fix": "Use title case: 'Ajustes guardados'."
+    }
+  ]
+}
