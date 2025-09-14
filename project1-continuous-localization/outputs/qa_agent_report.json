@@ -1,0 +1,32 @@
+{
+  "summary": {
+    "pass": false,
+    "issues": 4
+  },
+  "checks": [
+    {
+      "key": "ui.header.cta",
+      "type": "glossary",
+      "severity": "warn",
+      "message": "Preferred term for 'free trial' should be 'prueba gratuita'"
+    },
+    {
+      "key": "ui.header.cta",
+      "type": "glossary",
+      "severity": "blocker",
+      "message": "Forbidden term 'ensayo gratuito' found"
+    },
+    {
+      "key": "ui.header.cta",
+      "type": "length",
+      "severity": "blocker",
+      "message": "Over length limit 18 (got 27)"
+    },
+    {
+      "key": "ui.nav.docs",
+      "type": "glossary",
+      "severity": "warn",
+      "message": "Preferred term for 'Documentation' should be 'Documentation'"
+    }
+  ]
+}
