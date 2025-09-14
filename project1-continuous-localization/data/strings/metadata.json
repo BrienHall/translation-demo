@@ -1,0 +1,11 @@
+{
+    "length_limits": {
+        "ui.header.title": 26,
+        "ui.header.cta": 18,
+        "ui.nav.products": 14
+    },
+    "placeholders": {
+        "ui.toast.success": [],
+        "ui.toast.error": []
+    }
+}

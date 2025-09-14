@@ -1,0 +1,15 @@
+{
+    "ui.header.title": "Acme Control Panel",
+    "ui.header.cta": "Start free trial",
+    "ui.nav.products": "Products",
+    "ui.nav.pricing": "Pricing",
+    "ui.nav.docs": "Documentation",
+    "ui.form.email": "Email address",
+    "ui.form.password": "Password",
+    "ui.form.submit": "Continue",
+    "ui.toast.success": "Settings saved",
+    "ui.toast.error": "Something went wrong",
+    "docs.tagline": "Translate your product UI and docs continuously with confidence.",
+    "docs.hero": "A fast, opinionated workflow for continuous localization.",
+    "docs.section.glossary": "Use a shared glossary to keep terminology consistent."
+}

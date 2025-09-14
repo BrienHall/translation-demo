@@ -1,0 +1,6 @@
+languages: ["es","fr"]
+glossary: "data/glossary/en.json"
+style_guide: "data/style_guide.md"
+length_policy: "truncate_preserve_meaning"
+brand_voice: "neutral-professional"
+publish_threshold: "qa_pass"

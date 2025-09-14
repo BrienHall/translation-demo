@@ -1,0 +1,6 @@
+checks:
+  glossary: required
+  placeholders: required
+  length_limits: required
+  style: recommended
+fail_on: ["placeholders","length_limits"]

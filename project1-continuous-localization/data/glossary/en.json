@@ -1,0 +1,30 @@
+{
+    "preferred_terms": {
+        "Control Panel": {
+            "es": "Panel de control",
+            "fr": "Panneau de contrôle"
+        },
+        "free trial": {
+            "es": "prueba gratuita",
+            "fr": "essai gratuit"
+        },
+        "Documentation": {
+            "es": "Documentación",
+            "fr": "Documentation"
+        }
+    },
+    "forbidden": {
+        "es": [
+            "ensayo gratuito",
+            "documentaciones"
+        ],
+        "fr": [
+            "essai libre",
+            "documentations"
+        ]
+    },
+    "style": {
+        "tone": "neutral-professional",
+        "second_person": true
+    }
+}
